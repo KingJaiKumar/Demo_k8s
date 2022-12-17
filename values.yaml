@@ -1,0 +1,15 @@
+nameOverride: bg-deploy
+
+green:
+  appVersion: 1.0
+  enabled: false
+  timestamp: "2021-05-01 00:00:00"
+
+blue:
+  appVersion: 1.0
+  enabled: false
+  timestamp: "2021-05-01 00:00:00"
+
+productionSlot: blue
+
+replicaCount: 1
